@@ -1,0 +1,67 @@
+#head{
+    width: 200px;
+    text-align: center;
+    border: darkcyan solid 1px;
+    background-color: #f3f3f3;
+}
+a{
+    width: auto;
+    border: darkcyan solid 1px;
+    margin-top: 500px;
+    padding: 5px;
+    margin: 5px;
+
+}
+#avatar{
+    width: 200px;
+    height: 200px;
+    border: darkorange solid 2px;
+
+}
+#box_signup,#box_login{
+    width: max-content;
+    height: max-content;
+    border: darkorange solid 2px;
+    padding: 20px;
+    text-align: center;
+    background-color: #f7f7f7;
+
+    }
+
+    #box_link{
+        width: max-content;
+        height: max-content;
+        border: darkcyan solid 2px;
+        padding: 20px;
+    background-color: #f7f7f7;
+       
+    }
+    .massage_error{
+        width: max-content;
+        height: max-content;
+        border: darkcyan solid 2px;
+        padding: 20px;
+        color: orangered;
+    background-color: #f7f7f7;
+    }
+.massage_warning{
+    width: max-content;
+    height: max-content;
+    border: darkcyan solid 2px;
+    padding: 20px;
+    color: orange;
+background-color: #f7f7f7;
+}
+.massage_success{
+    width: max-content;
+    height: max-content;
+    border: darkcyan solid 2px;
+    padding: 20px;
+    color: limegreen;
+background-color: #f7f7f7;
+}
+#dialog{
+    width: 100px;
+    height: 100px;
+    border: rgb(228, 12, 210) solid 2px;
+}
